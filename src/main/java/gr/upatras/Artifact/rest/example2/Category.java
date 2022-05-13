@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author ctranoris
+ * @author gorf
  *
  */
 public class Category {

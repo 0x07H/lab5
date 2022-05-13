@@ -1,7 +1,7 @@
 package gr.upatras.Artifact.rest.example2;
 
 /**
- * @author ctranoris
+ * @author gorf
  *
  */
 public class Product {
